@@ -1,0 +1,964 @@
+
+shark_effect.png
+size: 2045,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bead
+  rotate: false
+  xy: 665, 461
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+effect/billow_C/billow_C_00002
+  rotate: false
+  xy: 469, 3
+  size: 79, 26
+  orig: 250, 125
+  offset: 21, 12
+  index: -1
+effect/billow_C/billow_C_00004
+  rotate: false
+  xy: 583, 0
+  size: 134, 59
+  orig: 250, 125
+  offset: 39, 12
+  index: -1
+effect/billow_C/billow_C_00020
+  rotate: false
+  xy: 1193, 1598
+  size: 100, 73
+  orig: 250, 125
+  offset: 104, 14
+  index: -1
+effect/billow_C/billow_C_00022
+  rotate: false
+  xy: 1193, 1598
+  size: 100, 73
+  orig: 250, 125
+  offset: 104, 14
+  index: -1
+effect/billow_C/billow_C_00026
+  rotate: true
+  xy: 719, 0
+  size: 59, 57
+  orig: 250, 125
+  offset: 110, 14
+  index: -1
+effect/billow_C/billow_C_00028
+  rotate: true
+  xy: 1996, 1573
+  size: 57, 49
+  orig: 250, 125
+  offset: 112, 15
+  index: -1
+effect/ground/common_land_snow_00004
+  rotate: false
+  xy: 624, 61
+  size: 242, 96
+  orig: 291, 99
+  offset: 24, 3
+  index: -1
+effect/ground/common_land_snow_00006
+  rotate: false
+  xy: 876, 121
+  size: 248, 96
+  orig: 291, 99
+  offset: 21, 3
+  index: -1
+effect/ground/common_land_snow_00008
+  rotate: false
+  xy: 868, 25
+  size: 256, 94
+  orig: 291, 99
+  offset: 17, 5
+  index: -1
+effect/hit/hit_00002
+  rotate: false
+  xy: 1774, 1283
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/hit/hit_00006
+  rotate: false
+  xy: 1774, 1031
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/leaf
+  rotate: true
+  xy: 286, 363
+  size: 64, 27
+  orig: 74, 35
+  offset: 7, 4
+  index: -1
+effect/mouth_splash/mouth_splash0058
+  rotate: true
+  xy: 1676, 1746
+  size: 300, 350
+  orig: 300, 350
+  offset: 0, 0
+  index: -1
+effect/mouth_splash2/mouth_splash_00000
+  rotate: true
+  xy: 583, 92
+  size: 63, 39
+  orig: 250, 125
+  offset: 11, 42
+  index: -1
+effect/mouth_splash2/mouth_splash_00014
+  rotate: true
+  xy: 740, 515
+  size: 218, 73
+  orig: 250, 125
+  offset: 17, 17
+  index: -1
+effect/mouth_splash2/mouth_splash_00016
+  rotate: true
+  xy: 1112, 1058
+  size: 74, 44
+  orig: 250, 125
+  offset: 100, 45
+  index: -1
+effect/mouth_splash2/mouth_splash_00018
+  rotate: false
+  xy: 1170, 1553
+  size: 40, 43
+  orig: 250, 125
+  offset: 103, 46
+  index: -1
+effect/ring16
+  rotate: false
+  xy: 315, 157
+  size: 307, 302
+  orig: 307, 302
+  offset: 0, 0
+  index: -1
+effect/splash/splash_00005
+  rotate: true
+  xy: 1661, 1535
+  size: 209, 333
+  orig: 500, 500
+  offset: 137, 53
+  index: -1
+effect/splash/splash_00008
+  rotate: true
+  xy: 1296, 1535
+  size: 227, 363
+  orig: 500, 500
+  offset: 131, 51
+  index: -1
+effect/splash/splash_00012
+  rotate: true
+  xy: 407, 735
+  size: 240, 413
+  orig: 500, 500
+  offset: 121, 48
+  index: -1
+effect/splash/splash_00014
+  rotate: true
+  xy: 315, 497
+  size: 236, 423
+  orig: 500, 500
+  offset: 123, 44
+  index: -1
+effect/splash/splash_00016
+  rotate: false
+  xy: 0, 0
+  size: 248, 427
+  orig: 500, 500
+  offset: 116, 39
+  index: -1
+effect/splash/splash_00018
+  rotate: false
+  xy: 0, 429
+  size: 313, 423
+  orig: 500, 500
+  offset: 109, 31
+  index: -1
+effect/splash/splash_00020
+  rotate: true
+  xy: 407, 977
+  size: 273, 407
+  orig: 500, 500
+  offset: 104, 26
+  index: -1
+effect/splash/splash_00023
+  rotate: true
+  xy: 1296, 1764
+  size: 282, 378
+  orig: 500, 500
+  offset: 98, 22
+  index: -1
+effect/splash/splash_00025
+  rotate: false
+  xy: 286, 31
+  size: 295, 124
+  orig: 500, 500
+  offset: 91, 18
+  index: -1
+effect/splash/splash_00028
+  rotate: false
+  xy: 816, 1025
+  size: 294, 107
+  orig: 500, 500
+  offset: 92, 16
+  index: -1
+effect/splash_out/splash_out_00000
+  rotate: false
+  xy: 778, 11
+  size: 62, 48
+  orig: 250, 125
+  offset: 96, 0
+  index: -1
+effect/splash_out/splash_out_00003
+  rotate: true
+  xy: 315, 756
+  size: 96, 83
+  orig: 250, 125
+  offset: 80, 0
+  index: -1
+effect/splash_out/splash_out_00023
+  rotate: true
+  xy: 1996, 1632
+  size: 112, 39
+  orig: 250, 125
+  offset: 74, 2
+  index: -1
+effect/splash_out/splash_out_00025
+  rotate: true
+  xy: 816, 1157
+  size: 93, 13
+  orig: 250, 125
+  offset: 74, 4
+  index: -1
+effect/tornado/tornado_00000
+  rotate: true
+  xy: 624, 159
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00001
+  rotate: false
+  xy: 868, 1386
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00002
+  rotate: false
+  xy: 868, 1134
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00003
+  rotate: false
+  xy: 1170, 1283
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00004
+  rotate: false
+  xy: 1472, 1283
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00005
+  rotate: false
+  xy: 1170, 1031
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00006
+  rotate: false
+  xy: 1472, 1031
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00007
+  rotate: false
+  xy: 822, 773
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00008
+  rotate: false
+  xy: 1124, 779
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00009
+  rotate: false
+  xy: 1426, 779
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00010
+  rotate: false
+  xy: 1728, 779
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00011
+  rotate: false
+  xy: 822, 521
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00012
+  rotate: false
+  xy: 1124, 527
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00013
+  rotate: false
+  xy: 1426, 527
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00014
+  rotate: false
+  xy: 1728, 527
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00015
+  rotate: true
+  xy: 876, 219
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado/tornado_00016
+  rotate: false
+  xy: 1128, 275
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00000
+  rotate: false
+  xy: 1430, 275
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00001
+  rotate: false
+  xy: 1732, 275
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00002
+  rotate: false
+  xy: 1128, 23
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00003
+  rotate: false
+  xy: 1430, 23
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00004
+  rotate: false
+  xy: 1732, 23
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/water_bubble/water_bubble_00000
+  rotate: false
+  xy: 665, 471
+  size: 69, 24
+  orig: 500, 250
+  offset: 10, 91
+  index: -1
+effect/water_bubble/water_bubble_00004
+  rotate: false
+  xy: 890, 1638
+  size: 301, 33
+  orig: 500, 250
+  offset: 30, 90
+  index: -1
+effect/water_bubble/water_bubble_00005
+  rotate: false
+  xy: 890, 1638
+  size: 301, 33
+  orig: 500, 250
+  offset: 30, 90
+  index: -1
+effect/water_bubble/water_bubble_00006
+  rotate: true
+  xy: 832, 1306
+  size: 342, 34
+  orig: 500, 250
+  offset: 43, 89
+  index: -1
+effect/water_bubble/water_bubble_00007
+  rotate: true
+  xy: 832, 1306
+  size: 342, 34
+  orig: 500, 250
+  offset: 43, 89
+  index: -1
+effect/water_bubble/water_bubble_00009
+  rotate: true
+  xy: 250, 66
+  size: 361, 34
+  orig: 500, 250
+  offset: 57, 89
+  index: -1
+effect/water_bubble/water_bubble_00011
+  rotate: false
+  xy: 315, 461
+  size: 348, 34
+  orig: 500, 250
+  offset: 80, 90
+  index: -1
+effect/water_bubble/water_bubble_00014
+  rotate: false
+  xy: 250, 0
+  size: 217, 29
+  orig: 500, 250
+  offset: 220, 91
+  index: -1
+effect/wind/wind0030
+  rotate: false
+  xy: 0, 1252
+  size: 440, 396
+  orig: 640, 480
+  offset: 23, 39
+  index: -1
+effect/wind/wind0033
+  rotate: false
+  xy: 460, 1650
+  size: 428, 396
+  orig: 640, 480
+  offset: 19, 39
+  index: -1
+effect/wind/wind0037
+  rotate: false
+  xy: 0, 1650
+  size: 458, 396
+  orig: 640, 480
+  offset: 20, 39
+  index: -1
+effect/wind/wind0041
+  rotate: false
+  xy: 442, 1252
+  size: 388, 396
+  orig: 640, 480
+  offset: 24, 39
+  index: -1
+effect/wind/wind0044
+  rotate: false
+  xy: 0, 854
+  size: 405, 396
+  orig: 640, 480
+  offset: 28, 39
+  index: -1
+effect/wind/wind0048
+  rotate: false
+  xy: 890, 1673
+  size: 404, 373
+  orig: 640, 480
+  offset: 21, 39
+  index: -1
+
+shark_effect2.png
+size: 2000,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack
+  rotate: true
+  xy: 353, 2
+  size: 97, 104
+  orig: 102, 104
+  offset: 3, 0
+  index: -1
+effect/billow_C/billow_C_00006
+  rotate: false
+  xy: 1547, 21
+  size: 148, 83
+  orig: 250, 125
+  offset: 45, 12
+  index: -1
+effect/billow_C/billow_C_00008
+  rotate: true
+  xy: 1454, 195
+  size: 153, 89
+  orig: 250, 125
+  offset: 48, 12
+  index: -1
+effect/billow_C/billow_C_00010
+  rotate: false
+  xy: 1454, 106
+  size: 137, 87
+  orig: 250, 125
+  offset: 63, 12
+  index: -1
+effect/billow_C/billow_C_00012
+  rotate: false
+  xy: 1454, 106
+  size: 137, 87
+  orig: 250, 125
+  offset: 63, 12
+  index: -1
+effect/billow_C/billow_C_00014
+  rotate: true
+  xy: 1610, 260
+  size: 138, 83
+  orig: 250, 125
+  offset: 67, 12
+  index: -1
+effect/billow_C/billow_C_00016
+  rotate: true
+  xy: 1593, 110
+  size: 140, 79
+  orig: 250, 125
+  offset: 72, 13
+  index: -1
+effect/billow_C/billow_C_00018
+  rotate: true
+  xy: 1695, 272
+  size: 126, 76
+  orig: 250, 125
+  offset: 95, 14
+  index: -1
+effect/billow_C/billow_C_00024
+  rotate: false
+  xy: 1482, 443
+  size: 66, 65
+  orig: 250, 125
+  offset: 105, 14
+  index: -1
+effect/billow_under/billow_under0003
+  rotate: false
+  xy: 1008, 895
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0005
+  rotate: false
+  xy: 1008, 783
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0007
+  rotate: false
+  xy: 1008, 671
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0011
+  rotate: false
+  xy: 1250, 667
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0015
+  rotate: false
+  xy: 1008, 559
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0019
+  rotate: false
+  xy: 1250, 555
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0023
+  rotate: false
+  xy: 1008, 447
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0027
+  rotate: false
+  xy: 1531, 622
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0031
+  rotate: false
+  xy: 1763, 572
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0033
+  rotate: false
+  xy: 1531, 510
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0037
+  rotate: false
+  xy: 1763, 460
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0041
+  rotate: false
+  xy: 1250, 443
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0045
+  rotate: false
+  xy: 1008, 335
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0049
+  rotate: true
+  xy: 1008, 103
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0051
+  rotate: true
+  xy: 1120, 103
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/billow_under/billow_under0053
+  rotate: true
+  xy: 1232, 103
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+effect/ground/common_land_snow_00000
+  rotate: true
+  xy: 1545, 252
+  size: 146, 63
+  orig: 291, 99
+  offset: 71, 1
+  index: -1
+effect/ground/common_land_snow_00001
+  rotate: false
+  xy: 1532, 819
+  size: 266, 91
+  orig: 291, 99
+  offset: 11, 0
+  index: -1
+effect/ground/common_land_snow_00002
+  rotate: false
+  xy: 703, 4
+  size: 291, 95
+  orig: 291, 99
+  offset: 0, 1
+  index: -1
+effect/ground/common_land_snow_00003
+  rotate: false
+  xy: 0, 1
+  size: 237, 98
+  orig: 291, 99
+  offset: 25, 1
+  index: -1
+effect/ground/common_land_snow_00005
+  rotate: false
+  xy: 459, 3
+  size: 242, 96
+  orig: 291, 99
+  offset: 24, 3
+  index: -1
+effect/ground/common_land_snow_00007
+  rotate: false
+  xy: 996, 5
+  size: 252, 94
+  orig: 291, 99
+  offset: 19, 5
+  index: -1
+effect/ground/common_land_snow_00009
+  rotate: false
+  xy: 1532, 734
+  size: 257, 83
+  orig: 291, 99
+  offset: 17, 7
+  index: -1
+effect/light
+  rotate: false
+  xy: 1550, 400
+  size: 176, 108
+  orig: 250, 250
+  offset: 36, 20
+  index: -1
+effect/mouth_splash2/mouth_splash_00002
+  rotate: false
+  xy: 1791, 684
+  size: 204, 102
+  orig: 250, 125
+  offset: 11, 3
+  index: -1
+effect/mouth_splash2/mouth_splash_00004
+  rotate: false
+  xy: 1240, 338
+  size: 157, 103
+  orig: 250, 125
+  offset: 11, 7
+  index: -1
+effect/mouth_splash2/mouth_splash_00006
+  rotate: false
+  xy: 1801, 898
+  size: 187, 107
+  orig: 250, 125
+  offset: 11, 5
+  index: -1
+effect/mouth_splash2/mouth_splash_00008
+  rotate: false
+  xy: 1800, 788
+  size: 185, 108
+  orig: 250, 125
+  offset: 13, 4
+  index: -1
+effect/mouth_splash2/mouth_splash_00010
+  rotate: true
+  xy: 1344, 134
+  size: 202, 108
+  orig: 250, 125
+  offset: 13, 4
+  index: -1
+effect/mouth_splash2/mouth_splash_00012
+  rotate: false
+  xy: 1250, 0
+  size: 213, 101
+  orig: 250, 125
+  offset: 15, 6
+  index: -1
+effect/splash/splash_00000
+  rotate: true
+  xy: 1465, 19
+  size: 85, 80
+  orig: 500, 500
+  offset: 208, 73
+  index: -1
+effect/splash/splash_00003
+  rotate: true
+  xy: 1250, 812
+  size: 193, 280
+  orig: 500, 500
+  offset: 143, 53
+  index: -1
+effect/splash/splash_00030
+  rotate: false
+  xy: 1532, 912
+  size: 267, 93
+  orig: 500, 500
+  offset: 117, 32
+  index: -1
+effect/splash/splash_00032
+  rotate: false
+  xy: 1532, 912
+  size: 267, 93
+  orig: 500, 500
+  offset: 117, 32
+  index: -1
+effect/splash_out/splash_out_00005
+  rotate: false
+  xy: 1888, 144
+  size: 110, 117
+  orig: 250, 125
+  offset: 74, 0
+  index: -1
+effect/splash_out/splash_out_00008
+  rotate: false
+  xy: 1806, 28
+  size: 109, 114
+  orig: 250, 125
+  offset: 73, 0
+  index: -1
+effect/splash_out/splash_out_00010
+  rotate: true
+  xy: 1888, 263
+  size: 111, 112
+  orig: 250, 125
+  offset: 71, 0
+  index: -1
+effect/splash_out/splash_out_00013
+  rotate: false
+  xy: 1773, 260
+  size: 113, 114
+  orig: 250, 125
+  offset: 71, 0
+  index: -1
+effect/splash_out/splash_out_00015
+  rotate: true
+  xy: 1697, 1
+  size: 127, 107
+  orig: 250, 125
+  offset: 60, 0
+  index: -1
+effect/splash_out/splash_out_00018
+  rotate: false
+  xy: 1399, 350
+  size: 125, 91
+  orig: 250, 125
+  offset: 61, 0
+  index: -1
+effect/splash_out/splash_out_00020
+  rotate: false
+  xy: 1806, 376
+  size: 125, 82
+  orig: 250, 125
+  offset: 61, 0
+  index: -1
+effect/tga_ly_waikuozaozao
+  rotate: false
+  xy: 1674, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00005
+  rotate: true
+  xy: 0, 705
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00006
+  rotate: true
+  xy: 0, 403
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00007
+  rotate: true
+  xy: 0, 101
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00008
+  rotate: true
+  xy: 252, 705
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00009
+  rotate: true
+  xy: 252, 403
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00010
+  rotate: true
+  xy: 252, 101
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00011
+  rotate: true
+  xy: 504, 705
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00012
+  rotate: true
+  xy: 504, 403
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00013
+  rotate: true
+  xy: 504, 101
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00014
+  rotate: true
+  xy: 756, 705
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00015
+  rotate: true
+  xy: 756, 403
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/tornado_end/tornado_end_00016
+  rotate: true
+  xy: 756, 101
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+effect/water_bubble/water_bubble_00002
+  rotate: true
+  xy: 1494, 599
+  size: 211, 35
+  orig: 500, 250
+  offset: 20, 88
+  index: -1
+effect/water_bubble/water_bubble_00003
+  rotate: true
+  xy: 1494, 599
+  size: 211, 35
+  orig: 500, 250
+  offset: 20, 88
+  index: -1
+effect/water_bubble/water_bubble_00013
+  rotate: false
+  xy: 1250, 779
+  size: 242, 31
+  orig: 500, 250
+  offset: 192, 91
+  index: -1
+mh
+  rotate: false
+  xy: 239, 2
+  size: 112, 97
+  orig: 136, 115
+  offset: 8, 6
+  index: -1
